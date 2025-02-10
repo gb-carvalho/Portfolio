@@ -95,7 +95,8 @@
 			});
 
 	// Scrolly.
-		$('.scrolly').scrolly();
+	// $('.scrolly').scrolly(); <-- Scrolly is used to create a smooth scroll when a link is clicked, but it is only adding a strange delay to the scroll.
+	// I tried to fix it but couldn't. TODO: "Fix the scrolly or use another method for smooth scrolling."
 
 	// Header (narrower + mobile).
 
