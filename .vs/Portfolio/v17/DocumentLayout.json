@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\wwwroot\\js\\util.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\js\\util.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\wwwroot\\css\\fontawesome-all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\css\\fontawesome-all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\portfolio.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,30 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|c:\\users\\gb\\desktop\\projetos\\c#\\portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F19F438-FC7C-4035-9641-6533A4B29BE4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,6 +75,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Portfolio\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-10T14:50:01.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\css\\main.css",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\css\\main.css",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\css\\main.css",
+              "RelativeToolTip": "Portfolio\\wwwroot\\css\\main.css",
+              "ViewState": "AQIAAMEJAAAAAAAAAAAuwC4KAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-10T14:35:24.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "util.js",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\js\\util.js",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\js\\util.js",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\js\\util.js",
+              "RelativeToolTip": "Portfolio\\wwwroot\\js\\util.js",
+              "ViewState": "AQIAANwBAAAAAAAAAAAwwEoCAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-07T17:52:05.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "Portfolio\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-07T17:24:39.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Portfolio.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\Portfolio.cshtml.cs",
               "RelativeDocumentMoniker": "Portfolio\\Pages\\Portfolio.cshtml.cs",
@@ -75,32 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Portfolio\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-05T18:39:02.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "main.css",
-              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\css\\main.css",
-              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\css\\main.css",
-              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\css\\main.css",
-              "RelativeToolTip": "Portfolio\\wwwroot\\css\\main.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-05T18:10:11.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Portfolio\\Pages\\Privacy.cshtml",
@@ -113,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Portfolio\\Pages\\_ViewImports.cshtml",
@@ -121,11 +160,12 @@
               "RelativeToolTip": "Portfolio\\Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T17:53:57.045Z"
+              "WhenOpened": "2025-02-05T17:53:57.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Portfolio\\Pages\\Error.cshtml",
@@ -133,48 +173,51 @@
               "RelativeToolTip": "Portfolio\\Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T17:53:43.361Z"
+              "WhenOpened": "2025-02-05T17:53:43.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Program.cs",
               "RelativeDocumentMoniker": "Portfolio\\Program.cs",
               "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Program.cs",
               "RelativeToolTip": "Portfolio\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T14:34:07.586Z"
+              "WhenOpened": "2025-02-05T14:34:07.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Portfolio.cshtml",
               "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\Portfolio.cshtml",
               "RelativeDocumentMoniker": "Portfolio\\Pages\\Portfolio.cshtml",
               "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\Portfolio.cshtml",
               "RelativeToolTip": "Portfolio\\Pages\\Portfolio.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-05T14:32:32.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Portfolio\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Portfolio\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T14:31:02.956Z"
+              "WhenOpened": "2025-02-05T14:31:02.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Portfolio\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -182,11 +225,12 @@
               "RelativeToolTip": "Portfolio\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T18:12:37.32Z"
+              "WhenOpened": "2025-02-05T18:12:37.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "fontawesome-all.min.css",
               "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\wwwroot\\css\\fontawesome-all.min.css",
               "RelativeDocumentMoniker": "Portfolio\\wwwroot\\css\\fontawesome-all.min.css",
@@ -195,6 +239,19 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-05T18:44:52.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C#\\Portfolio\\Portfolio\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Portfolio\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T14:45:13.485Z",
               "EditorCaption": ""
             }
           ]
