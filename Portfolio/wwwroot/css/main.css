@@ -2633,11 +2633,11 @@ input, select, textarea {
 
 /* Others */
 
-#top footer a:hover, #portfolio article:hover {
+#top footer a:hover, #projetos article:hover {
 	transform: scale(1.2);
 }
 
-#portfolio article:hover {
+#projetos article:hover {
 	transform: scale(1.1);
 }
 
@@ -2653,7 +2653,7 @@ input, select, textarea {
 	position: absolute;
 }
 
-#top, #portfolio .row, h2, h3 {
+#top, #projetos .row, h2, h3 {
 	text-align: center;
 }
 
@@ -2661,8 +2661,12 @@ input, select, textarea {
 	text-align: center;
 }
 
-a, #portfolio article {
+#top a, #projetos article {
 	transition: transform 0.15s ease-in-out;
+	border: none;
+}
+
+#projetos article a {
 	border: none;
 }
 
@@ -2673,4 +2677,12 @@ a, #portfolio article {
 
 #nav a {
 	transition: transform 1s ease-in-out;
+}
+
+.screen-fit {
+	min-height: 100vh;
+}
+
+.steam-iframe{
+	text-align: center;
 }

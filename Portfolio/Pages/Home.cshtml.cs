@@ -1,13 +1,13 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Portfolio.Pages
+namespace Home.Pages
 {
-    public class PortfolioModel : PageModel
+    public class HomeModel : PageModel
     {
-        private readonly ILogger<PortfolioModel> _logger;
+        private readonly ILogger<HomeModel> _logger;
 
-        public PortfolioModel(ILogger<PortfolioModel> logger)
+        public HomeModel(ILogger<HomeModel> logger)
         {
             _logger = logger;
         }

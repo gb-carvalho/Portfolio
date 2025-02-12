@@ -20,7 +20,7 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapGet("/", () => Results.Redirect("/Portfolio"));
+app.MapGet("/", () => Results.Redirect("/Home"));
 
 app.MapRazorPages();
 

@@ -3,6 +3,10 @@
     html5up.net | @ajlkn
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+function getParameterByName(name) {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(name);
+}
 
 (function ($) {
 
@@ -24,6 +28,25 @@
         window.setTimeout(function () {
             $body.removeClass('is-preload');
         }, 100);
+    });
+
+    $(function () {
+        var $nav_a = $('#nav').find('a');
+
+        var isHome = getParameterByName("home");
+
+        $nav_a.on('click', function (e) {
+            var $this = $(this);
+            var href = $this.attr('href');
+
+            console.log(isHome)
+            if (href.charAt(0) === "#" && isHome == 0) {
+                e.preventDefault();
+
+                var newUrl = window.location.origin + "/Home" + href;
+                window.location.href = newUrl; 
+            }
+        });
     });
 
     // Nav.
@@ -52,6 +75,9 @@
 
         })
         .each(function () {
+
+            var isHome = getParameterByName("home");
+            if (isHome == 0) return;
 
             var $this = $(this),
                 id = $this.attr('href'),
