@@ -2686,3 +2686,7 @@ input, select, textarea {
 .steam-iframe{
 	text-align: center;
 }
+
+.two a {
+	color: #dc7289;
+}
