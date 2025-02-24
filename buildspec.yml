@@ -6,6 +6,7 @@ phases:
       dotnet: 8.0  # Ou a versão que você estiver usando
   build:
     commands:
+      - curl -fsSL https://dot.net/v1/dotnet-install.sh | bash /dev/stdin --version 8.0.100
       - dotnet restore
       - dotnet build --configuration Release
   post_build:
