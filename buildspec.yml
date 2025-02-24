@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      dotnet: 6.0  # Ou a versão que você estiver usando
+      dotnet: 8.0  # Ou a versão que você estiver usando
   build:
     commands:
       - dotnet restore
