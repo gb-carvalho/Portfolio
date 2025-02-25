@@ -14,9 +14,8 @@ phases:
   post_build:
     commands:
       - dotnet publish --configuration Release --output ./publish
-      - Compress-Archive -Path ./publish/* -DestinationPath ./Portfolio.zip
 
-artifacts:  
+artifacts:
   files:
-    - Portfolio.zip
+    - ./publish/**/*
   discard-paths: yes
