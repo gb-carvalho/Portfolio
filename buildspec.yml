@@ -6,22 +6,12 @@ phases:
       dotnet: 8.0
   pre_build:
     commands:
-      - echo "Restaurando pacotes..."
       - dotnet restore
   build:
     commands:
-      - echo "Compilando aplicação..."
       - dotnet build --configuration Release
-      - echo "Rodando testes..."
       - dotnet test --configuration Release
   post_build:
     commands:
-      - echo "Publicando aplicação..."
       - dotnet publish -c Release -o ./publish
-      - echo "Empacotando para deploy..."
       - zip -r Portfolio.zip ./publish
-
-artifacts:
-  files:
-    - Portfolio.zip
-  discard-paths: yes
