@@ -13,5 +13,10 @@ phases:
       - dotnet test --configuration Release
   post_build:
     commands:
-      - dotnet publish -c Release -o ./publish
-      - zip -r Portfolio.zip ./publish
+      - dotnet publish --configuration Release --output ./publish
+      - Compress-Archive -Path ./publish/* -DestinationPath ./Portfolio.zip
+
+artifacts:  
+  files:
+    - Portfolio.zip
+  discard-paths: yes
